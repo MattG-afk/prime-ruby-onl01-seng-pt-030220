@@ -6,5 +6,5 @@ def prime?(integer)
          return false if integer % i == 0 || integer <= -1
         return true
     end
-   return true
+  return true
   end
