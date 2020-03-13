@@ -1,6 +1,6 @@
 def prime?(num)
   num.split.each do |x|
- if !num.interger?
+ if num.interger?
   false
  elsif num < 2 
   false
