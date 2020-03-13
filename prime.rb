@@ -1,6 +1,5 @@
 def prime?(integer)
-  I
-
+  i = 2
     while i < integer
         i += 1
     end
