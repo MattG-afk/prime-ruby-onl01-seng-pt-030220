@@ -3,8 +3,8 @@ def prime?(integer)
     
     while i < integer
         i += 1
-         return false if integer % i == 0 || integer <= -1
-        return true
+        return false if integer % i == 0 || integer <= -1
+        
     end
   return true
   end
