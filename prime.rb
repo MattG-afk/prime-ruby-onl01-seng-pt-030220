@@ -1,2 +1,2 @@
 def prime?(integer)
-  return false
+  return false if n
