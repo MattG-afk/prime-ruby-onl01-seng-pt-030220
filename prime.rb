@@ -6,6 +6,3 @@ def prime?(integer)
   return false if number == 
   return TRUE if number == 2 
 end
-  
-  true
-end
