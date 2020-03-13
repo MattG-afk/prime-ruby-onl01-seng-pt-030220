@@ -1,4 +1,5 @@
 def prime?(integer)
+  I
 
     while i < integer
         i += 1
