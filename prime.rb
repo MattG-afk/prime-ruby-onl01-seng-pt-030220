@@ -5,4 +5,4 @@ def prime?(integer)
     end
     return false if integer % i == 0 || integer <= 1
   end
-  true
+  
